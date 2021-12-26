@@ -1,5 +1,6 @@
-mod ptint;
+// mod ptint;
+mod cli;
 fn main() {
     // print console
-    ptint::run();
+    cli::run();
 }
